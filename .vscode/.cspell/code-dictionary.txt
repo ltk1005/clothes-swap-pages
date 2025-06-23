@@ -18,6 +18,7 @@ qcdd
 quyit
 Sdistributiondbs
 Snosyncsubsetup
+Swal
 tempdev
 viblo
 vihat
