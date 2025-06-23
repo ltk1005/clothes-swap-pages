@@ -1,0 +1,27 @@
+# Custom Dictionary Words
+adsms
+anhld
+dakiagroup
+dbcode
+DBPAR
+dotenv
+esms
+geoip
+minipc
+mklink
+nextjs
+nhquydev
+nqdev
+nuxt
+ovpn
+qcdd
+quyit
+Sdistributiondbs
+Snosyncsubsetup
+tempdev
+viblo
+vihat
+virtualenv
+vuepress
+Zalo
+zalosdk
